@@ -7,4 +7,3 @@ In this repository you will find all the assets required for the  `Amazon EKS`.
 
 This solution has been built for for explaining all the concepts. It is complete enough for covering a real case of microservices running on EKS and integrating with other AWS Services.
 
-> You can find in [here](_docs/api.md) the documentation of the APIs.
